@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28049" started-at="2018-06-18T09:41:29Z" finished-at="2018-06-18T09:41:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28049" started-at="2018-06-18T09:41:29Z" finished-at="2018-06-18T09:41:57Z">
+      <class name="superAdmin.SuperAdmin">
+        <test-method status="PASS" signature="ChangeTimeZone()[pri:0, instance:superAdmin.SuperAdmin@1a7504c]" name="ChangeTimeZone" duration-ms="28021" started-at="2018-06-18T09:41:29Z" finished-at="2018-06-18T09:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeTimeZone -->
+      </class> <!-- superAdmin.SuperAdmin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
