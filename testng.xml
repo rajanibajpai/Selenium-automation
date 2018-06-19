@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ProfileUpdate">
+	<test name="Update student,teacher and admin profile" allow-return-values="true">	
+  		<classes>
+			<class name="userManagement.UpdateProfile" />
+		</classes>
+	</test>  
+
+</suite> <!-- Suite -->
